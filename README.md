@@ -1,4 +1,4 @@
-data science coursera
+Data Science Coursera
 =======================
 
 Learning the Data Science
